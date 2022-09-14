@@ -1,0 +1,2 @@
+# StartForceNoDll
+基于GameFrameWork框架StartForce，替换过dll的工程
